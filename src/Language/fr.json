@@ -1,0 +1,398 @@
+{
+  "pages": {
+    "BrandBox": {
+      "search": "Chercher",
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Img": "Img",
+        "Name": "Nom",
+        "actions": "actions"
+      }
+    },
+    "BrandModal": {
+      "New_Brand_Name": " Nouveau nom de marque",
+      "Name": "Nom",
+      "Images": "Images",
+      "Submit": "Soumettre",
+      "placeholder": "texte"
+    },
+    "UnitsBox": {
+      "search": "Chercher",
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "actions": "actions"
+      }
+    },
+    "UnitsModal": {
+      "New_Unit_Name": " Nouveau nom d'unité",
+      "Name": "Nom",
+      "Submit": "Soumettre",
+      "placeholder": "texte"
+    },
+    "AttributeBox": {
+      "search": "Chercher",
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "actions": "actions"
+      }
+    },
+    "AttributesModal": {
+      "New_Unit_Name": " Nouveau nom d'attribut",
+      "Name": "Nom",
+      "Submit": "Soumettre",
+      "placeholder": "texte"
+    },
+    "UsersBox": {
+      "search": "Chercher",
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Email": "E-mail",
+        "Rule": "Règle",
+        "actions": "actions"
+      }
+    },
+    "UserDetailBox": {
+      "Name": "Nom",
+      "Email": "E-mail",
+      "Password": "Mot de passe",
+      "Confirm_Password": " Confirmez le mot de passe",
+      "Rule": " Règle ",
+      "Submit": "Soumettre ",
+      "email_or_password_is_wrong": " l'email ou le mot de passe est erroné ",
+      "Required": " Requis ",
+      "must_be_a_valid_email": " doit être un email valide "
+    },
+    "CategoriesBox": {
+      "add": {
+        "name": "Nom",
+        "Images": "Images",
+        "Submit": "Soumettre"
+      },
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Img": "Img",
+        "Home_Status": " Statut d'accueil",
+        "actions": "actions"
+      }
+    },
+    "CategoriesEdit": {
+      "add": {
+        "name": "Nom",
+        "Images": "Images",
+        "Submit": "Soumettre"
+      }
+    },
+    "SubCategoriesBox": {
+      "add": {
+        "Main_Category": "Catégorie principale *",
+        "Sub_category_Name": " Nom de la sous-catégorie",
+        "Submit": "Soumettre"
+      },
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Img": "Img",
+        "actions": "actions"
+      }
+    },
+    "SubCategoriesEdit": {
+      "add": {
+        "Sub_category_Name": "Nom de la sous-catégorie",
+        "Submit": "Soumettre"
+      }
+    },
+    "SubSubCategoriesBox": {
+      "add": {
+        "Main_Category": " Catégorie principale *",
+        "Sub_category_Name": " Nom de la sous-catégorie",
+        "Sub_Sub_category_Name": " Nom de la sous-sous-catégorie",
+        "Submit": "Soumettre"
+      },
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Img": "Img",
+        "actions": "actions"
+      }
+    },
+    "ProductBox": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Price": "Prix",
+        "actions": "actions"
+      }
+    },
+    "ProductNew": {
+      "Sub_category_Name": "Sub category Name",
+      "Description": "Description",
+      "Brand": "Marque ",
+      "Attributes": "Attributs  ",
+      "Categories": "Categories  ",
+      "Sub_Categories": "Sous-Categories ",
+      "Sub_Sub_category": "Sous-sous-Categories  ",
+      "Unit": "Unité",
+      "Unit_Price": "Prix unitaire",
+      "Total_Quantity": " Quantité totale ",
+      "ADD_Images": "Ajouter des Images ",
+      "Img": "Img",
+      "Submit": "Soumettre "
+    },
+    "ProductEdit": {
+      "Sub_category_Name": " Nom de la sous-catégorie",
+      "Description": "Description",
+      "Brand": "Marque ",
+      "Attributes": " Les attributs",
+      "Categories": "Categories",
+      "Sub_Categories": "Sous-Categories ",
+      "Sub_Sub_category": " Sous-sous-catégories ",
+      "Unit": "Unité",
+      "Unit_Price": " Prix ??unitaire",
+      "Total_Quantity": "Quantité totale ",
+      "ADD_Images": "Ajouter des images ",
+      "Img": "Img",
+      "Submit": "Soumettre "
+    },
+    "ServicesBox": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Price": "Prix",
+        "actions": "actions"
+      }
+    },
+    "ServicesAdd": {
+      "Sub_category_Name": "  Nom de la sous-catégorie",
+      "Description": "Description",
+      "Categories": "Categories",
+      "Unit": " Unité",
+      "Price": "Prix",
+      "Phone_Number": "Numéro de téléphone ",
+      "ADD_Images": "Ajouter des images ",
+      "Img": "Img",
+      "Submit": "Soumettre "
+    },
+    "ServicesEdit": {
+      "Sub_category_Name": " Nom de la sous-catégorie",
+      "Description": "Description",
+      "Categories": "Categories",
+      "Unit": "Unité",
+      "Price": "Prix",
+      "Phone_Number": "Numéro de téléphone ",
+      "ADD_Images": " Ajouter des images ",
+      "Img": "Img",
+      "Submit": "Soumettre "
+    },
+    "ProjectBox": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Customer_Name": "Nom du client",
+        "Project_Name": "Nom du projet",
+        "actions": "actions"
+      }
+    },
+    "ProjectAdd": {
+      "Project_Name": "Nom du projet",
+      "Customer_Name": "Nom du client",
+      "Project_Total": " Total du projet",
+      "Start_Date": "Date de début",
+      "End_Date": "Date de fin ",
+      "Product": "Produit",
+      "Quantity_Total": "Quantité total",
+      "The_Quantity_Must_be_Number": " la quantité doit être un nombre !",
+      "Add": "Ajouter",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Quantity": "Quantité",
+        "Price": "Prix",
+        "actions": "actions"
+      },
+      "Submit": "Soumettre"
+    },
+    "ProjectView": {
+      "Project_Name": "Nom du projet",
+      "Customer_Name": "Nom du client",
+      "Project_Total": "Total du projet",
+      "Start_Date": "Date de début",
+      "End_Date": "Date de fin ",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Project_Name": "Nom du projet",
+        "Customer_Name": "Nom du client"
+      }
+    },
+    "ProjectPayment": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Customer_Name": "Nom du client",
+        "Project_Name": "Nom du projet",
+        "Price": "Prix",
+        "actions": "actions"
+      }
+    },
+    "ProjectPaymentAdd": {
+      "Project": "Projet ",
+      "Price": "Prix",
+      "Submit": "Soumettre"
+    },
+    "ProjectPaymentEdit": {
+      "Project": "Projet ",
+      "Price": "Prix",
+      "Submit": "Soumettre"
+    },
+    "GeneralExpenses": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Price": "Prix",
+        "Description": "Description",
+        "Description_Modal": "Description",
+        "actions": "actions"
+      }
+    },
+    "GeneralExpensesAdd": {
+      "Price": "Prix",
+      "Description": "Description",
+      "Submit": "Soumettre"
+    },
+    "GeneralExpensesEdit": {
+      "Price": "Prix",
+      "Description": "Description",
+      "Submit": "Soumettre"
+    },
+    "ComponyExpenses": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Customer_Name": "Nom du client",
+        "Project_Name": "Nom du projet",
+        "actions": "actions"
+      }
+    },
+    "ComponyExpensesAdd": {
+      "Project": "Projet ",
+      "Product": "Produit",
+      "Quantity_Total": " Quantité totale",
+      "The_Quantity_Must_be_Number": " La quantité doit être un nombre !",
+      "Add": "Ajouter",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Quantity": "Quantité",
+        "Price": "Prix",
+        "actions": "actions"
+      },
+      "Submit": "Soumettre"
+    },
+    "ComponyExpensesView": {
+      "Project_Name": "Nom du projet",
+      "Customer_Name": " Nom du client",
+      "Project_Total": " Total du projet",
+      "Start_Date": " Date de début",
+      "End_Date": "Date de fin",
+      "table": {
+        "id": "id",
+        "Date": "Date",
+        "Products": "Produits ",
+        "Customer_Name": "Nom du client"
+      },
+      "table_Modal": {
+        "id": "id",
+        "Project": "Projet",
+        "Products": "Produits ",
+        "quantity": "quantité"
+      }
+    },
+    "Profile": {
+      "Full_Name": " Nom et prénom ",
+      "Email": "E-mail",
+      "New_Password": "Nouveau mot de passe",
+      "Confirm_Password": " Confirmez le mot de passe",
+      "Save_Change": " Sauvegarder les modifications"
+    },
+    "ContactBox": {
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "Email": "E-mail",
+        "Phone": "Numéro de téléphone",
+        "Message_Modal": "Message",
+        "actions": "actions"
+      }
+    },
+    "RolesBox": {
+      "Add_a_new": "Ajouter un nouveau",
+      "table": {
+        "id": "id",
+        "Name": "Nom",
+        "actions": "actions"
+      }
+    },
+    "RolesBoxAdd": {
+      "Role_Name": "Nom du rôle",
+      "Submit": "Soumettre"
+    },
+    "RolesBoxEdit": {
+      "Role_Name": "Nom du rôle",
+      "Submit": "Soumettre"
+    },
+    "AboutBox": {
+      "Title": "Titre",
+      "Description": "Description",
+      "Image": "Image",
+      "Submit": "Soumetrre"
+    },
+    "SettingsBox": {
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Whatsapp": "Whatsapp",
+      "Youtube": "Youtube",
+      "Phones": "Numéro de téléphone",
+      "Address": "Addresse",
+      "Submit": "Soumettre"
+    }
+  },
+  "sidBar": {
+    "DashBoard": " Tableau de bord",
+    "Brand": "Marque",
+    "attributes": " les attributs",
+    "units": "unités",
+    "Users": "Utilisateurs",
+    "categories": "catégories",
+    "sub_categories": "sub-catégories",
+    "sub_Sub_categories": "sub sub-catégories",
+    "product": "produit",
+    "Services": "Services",
+    "project": "project",
+    "project_Payment": " paiement du projet",
+    "General_Expenses": " Frais généraux",
+    "project_Expenses": " Dépenses du projet",
+    "profile": "profil",
+    "contact": "contact",
+    "about": "A propos",
+    "roles": "les rôles",
+    "Logout": " Se déconnecter",
+    "settings": " paramètres"
+  },
+  "Language": {
+    "English": "Anglais",
+    "Arabic": "Arabe",
+    "French": "Français"
+  }
+}
